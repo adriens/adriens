@@ -5,7 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriens" alt="adriens" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rastadidi" target="blank"><img src="https://img.shields.io/twitter/follow/rastadidi?logo=twitter&style=for-the-badge" alt="rastadidi" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/rastadidi" target="blank"><img src="https://img.shields.io/twitter/follow/rastadidi?logo=twitter&style=for-the-badge" alt="rastadidi" /></a>
+  <a href="https://www.katacoda.com/rastadidi" target="blank"><img src="http://shields.katacoda.com/katacoda/rastadidi/count.svg" alt="rastadidi on Katacoda" /></a>
+</
+</p>
+
+
 
 - 🔭 I’m currently working on [schemacrawler](https://github.com/mbarre/schemacrawler-additional-lints)
 
