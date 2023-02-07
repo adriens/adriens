@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/rastadidi" target="blank"><img src="https://img.shields.io/twitter/follow/rastadidi?logo=twitter&style=for-the-badge" alt="rastadidi" /></a> </p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1190123897)
+
 - 🔭 I’m currently working on [schemacrawler](https://github.com/mbarre/schemacrawler-additional-lints)
 
 - 🌱 I’m currently learning **Blender, K8s, Unity, Snapcraft, Chocolatey**
