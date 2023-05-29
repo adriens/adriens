@@ -1,11 +1,16 @@
-<h1 align="center">👋, I'm Adrien</h1>
-<h3 align="center">A passionate Open Innovation developer and Devops Tools creation</h3>
+<h1 align="center">👋, I'm Adrien </h1>
+<h3 align="center">A passionate Open Innovation developer and Devops Tools creator.</h3>
+<h3 align="center">I  love to learn & create things, then blog about them.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adriens&label=Profile%20views&color=0e75b6&style=flat" alt="adriens" /> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=adriens&theme=onedark&row=2&column=4&style=flat" alt="adriens" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adriens" alt="adriens" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/rastadidi" target="blank"><img src="https://img.shields.io/twitter/follow/rastadidi?logo=twitter&style=for-the-badge" alt="rastadidi" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/rastadidi" target="blank">
+    <img src="https://img.shields.io/twitter/follow/rastadidi?logo=twitter&style=for-the-badge" alt="rastadidi" />
+  </a>
+</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1190123897)
 
